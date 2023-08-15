@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithvi</h1>
-<h3 align="center">Novice MERN dev and UI/UX designer</h3>
+<h3 align="center">Web developer and Designer..!</h3>
 
 
 
