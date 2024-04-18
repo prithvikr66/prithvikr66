@@ -1,11 +1,11 @@
 <h1 align="center">Hey , I'm Prithvi</h1>
 <h3 align="center">Im on a journey to become a backend and devops wizard.....</h3>
 
-<p align="left"> <a href="https://twitter.com/prithzzh" target="blank"><img src="https://img.shields.io/twitter/follow/prithzzh?logo=twitter&style=for-the-badge" alt="prithzzh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pritzzh" target="blank"><img src="https://img.shields.io/twitter/follow/prithzzh?logo=twitter&style=for-the-badge" alt="prithzzh" /></a> </p>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/pritzzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithzzh" height="30" width="40" /></a>
+<a href="https://twitter.com/pritzzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritzzh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prithvi---kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi---kr" height="30" width="40" /></a>
 <a href="https://instagram.com/prithvi_kr66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithvi_kr66" height="30" width="40" /></a>
 <a href="https://hashnode.com/@prithvikr66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prithvikr66" height="30" width="40" /></a>
