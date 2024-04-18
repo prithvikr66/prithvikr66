@@ -1,5 +1,6 @@
 <h1 align="center">Hey , I'm Prithvi</h1>
 <h3 align="center">Im on a journey to become a backend and devops wizard.....</h3>
+<h3 align="center">I love architectng and build systems that scale to the moooooooon 🌛..</h3>
 
 <p align="left"> <a href="https://twitter.com/pritzzh" target="blank"><img src="https://img.shields.io/twitter/follow/prithzzh?logo=twitter&style=for-the-badge" alt="prithzzh" /></a> </p>
 
